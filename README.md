@@ -12,5 +12,5 @@
 
 ### Reach me 
 [![twitter badge](https://img.shields.io/twitter/follow/NandiyaLive?style=social)](https://twitter.com/NandiyaLive)
-[![mastodon badge](https://img.shields.io/mastodon/follow/NandiyaLive?domain=https%3A%2F%2Fmastodon.social&style=social)](https://mastodon.social/@NandiyaLive)
-[![telegram badge](https://img.shields.io/badge/Nandiyalive-30302f?style=flat&logo=telegram)](https://t.me/NandiyaLive)
+[![mastodon badge](https://img.shields.io/badge/NandiyaLive-30302f?style=flat&logo=mastodon)](https://mastodon.social/@NandiyaLive)
+[![telegram badge](https://img.shields.io/badge/NandiyaLive-30302f?style=flat&logo=telegram)](https://t.me/NandiyaLive)
