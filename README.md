@@ -11,6 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+19 😎 | Tech Noob 👨‍💻  | Linux Lover 🐧 | DIY Builder 🤖 | Tweet-A-Holic 🐦 | Sri Lankan 🇱🇰
 
 ### Reach me
 [![linkedin badge](https://img.shields.io/badge/@NeranjanaPrasad-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/neranjanaprasad/)
