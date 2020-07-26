@@ -1,8 +1,6 @@
 ### Hi there 👋
 ### Hi there 👋
-<--[![linkedin badge](https://img.shields.io/badge/Sumanjay-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/sumanjay)-->
-[![twitter badge](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FNandiyaLive)](https://twitter.com/NandiyaLive)
-[![telegram badge](https://img.shields.io/badge/Sumanjay-30302f?style=flat&logo=telegram)](https://t.me/cyberboysumanjay)
+[![twitter badge](https://img.shields.io/twitter/url?label=%40NandiyaLive&style=social&url=https%3A%2F%2Ftwitter.com%2FNandiyaLive)](https://twitter.com/NandiyaLive)
 
 
 - 🔭 I’m currently working on ...
