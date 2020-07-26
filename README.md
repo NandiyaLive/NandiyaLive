@@ -11,6 +11,6 @@
 - ⚡ Fun fact: ...
 
 ### Reach me 
-[![twitter badge](https://img.shields.io/twitter/follow/NandiyaLive?style=social)](https://twitter.com/NandiyaLive)
-[![mastodon badge](https://img.shields.io/badge/NandiyaLive-30302f?style=flat&logo=mastodon)](https://mastodon.social/@NandiyaLive)
+[![twitter badge](https://img.shields.io/badge/NandiyaLive-30302f?style=flat&logo=twitter)](https://twitter.com/NandiyaLive)
 [![telegram badge](https://img.shields.io/badge/NandiyaLive-30302f?style=flat&logo=telegram)](https://t.me/NandiyaLive)
+[![mastodon badge](https://img.shields.io/badge/NandiyaLive-30302f?style=flat&logo=mastodon)](https://mastodon.social/@NandiyaLive)
