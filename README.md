@@ -12,3 +12,4 @@
 
 ### Reach me 
 [![twitter badge](https://img.shields.io/twitter/url?label=%40NandiyaLive&style=social&url=https%3A%2F%2Ftwitter.com%2FNandiyaLive)](https://twitter.com/NandiyaLive)
+[![mastodon badge](https://img.shields.io/mastodon/follow/952683?domain=https%3A%2F%2Fmastodon.social%2F%40NandiyaLive&label=%40NandiyaLive&style=social)](https://mastodon.social/@NandiyaLive)
