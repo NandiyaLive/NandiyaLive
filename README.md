@@ -1,6 +1,4 @@
 ### Hi there 👋
-### Hi there 👋
-[![twitter badge](https://img.shields.io/twitter/url?label=%40NandiyaLive&style=social&url=https%3A%2F%2Ftwitter.com%2FNandiyaLive)](https://twitter.com/NandiyaLive)
 
 
 - 🔭 I’m currently working on ...
@@ -11,3 +9,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Reach me 
+[![twitter badge](https://img.shields.io/twitter/url?label=%40NandiyaLive&style=social&url=https%3A%2F%2Ftwitter.com%2FNandiyaLive)](https://twitter.com/NandiyaLive)
