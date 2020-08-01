@@ -20,6 +20,8 @@
 <img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
 <img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
 
+<br><br>
+
 ### Reach me
 [![linkedin badge](https://img.shields.io/badge/@NeranjanaPrasad-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/neranjanaprasad/)
 [![twitter badge](https://img.shields.io/badge/@NandiyaLive-30302f?style=flat&logo=twitter)](https://twitter.com/NandiyaLive)
