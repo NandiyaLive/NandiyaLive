@@ -22,7 +22,7 @@
 
 <br>
 
-### Reach me 🗣
+### Find Me 🔍
 [![linkedin badge](https://img.shields.io/badge/@NeranjanaPrasad-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/neranjanaprasad/)
 [![twitter badge](https://img.shields.io/badge/@NandiyaLive-30302f?style=flat&logo=twitter)](https://twitter.com/NandiyaLive)
 [![telegram badge](https://img.shields.io/badge/@NandiyaLive-30302f?style=flat&logo=telegram)](https://t.me/NandiyaLive)
