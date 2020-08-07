@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 19 😎 | Tech Noob 👨‍💻  | Linux Lover 🐧 | DIY Builder 🤖 | Tweet-A-Holic 🐦 | Sri Lankan 🇱🇰
 
