@@ -21,4 +21,18 @@
 
 ### Find Me 🔍
 
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="40">](https://github.com/NandiyaLive)   [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="40">](https://www.instagram.com/NandiyaLive)   [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="40">](https://twitter.com/NandiyaLive)   [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="40">](https://stackoverflow.com/users/10237987/nandiyalive)   [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/reddit.jpg" alt="reddit logo" width="40">](https://www.reddit.com/user/NandiyaLive)
+  <a href="https://twitter.com/NandiyaLive">
+  <img align="left" alt="Neranjana's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/NeranjanaPrasad">
+  <img align="left" alt="Neranjana's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/NandiyaLive">
+  <img align="left" alt="Neranjana's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/NandiyaLive">
+  <img align="left" alt="Neranjana's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/NandiyaLive">
+  <img align="left" alt="Neranjana's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
