@@ -20,6 +20,9 @@
 <in><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="css logo" width="34"></in>
 <in><img height="34" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></in>
 <in><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></in>
+<in><img height="30" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"></in>
+<in><img height="30" src="https://img.icons8.com/color/48/000000/heroku.png"></in>
+<in><img height="30" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"></in>
 <in><img height="34" src="https://img.icons8.com/color/50/000000/git.png"></in>
 <in><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></in>
 
