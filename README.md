@@ -43,5 +43,6 @@
 <a href="https://www.facebook.com/NandiyaLive">
   <img align="left" alt="Neranjana's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br><br>
-[Neranjana's github stats](https://github-readme-stats.vercel.app/api?username=nandiyalive&show_icons=true&theme=dark)
+<br>
+
+![Neranjana's github stats](https://github-readme-stats.vercel.app/api?username=nandiyalive&show_icons=true&theme=dark)
