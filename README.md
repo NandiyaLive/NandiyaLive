@@ -2,7 +2,7 @@
 
 19 😎 | Tech Noob 👨‍💻  | Linux Lover 🐧 | DIY Builder 🤖 | Tweet-A-Holic 🐦 | Sri Lankan 🇱🇰
 
-- 🔭 I’m currently working on Nothing.
+- 🔭 I’m currently working on a Torrent API.
 - 🌱 I’m currently learning Python & JavaScript.
 - 👯 I’m looking to collaborate on any interesting project.
 - 💬 Ask me about [Telegram](https://telegram)
