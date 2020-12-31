@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-19 😎 | Tech Noob 👨‍💻  | Linux Lover 🐧 | DIY Builder 🤖 | Tweet-A-Holic 🐦 | Sri Lankan 🇱🇰
+20 😎 | Tech Noob 👨‍💻  | Linux Lover 🐧 | DIY Builder 🤖 | Tweet-A-Holic 🐦 | Sri Lankan 🇱🇰
 
 - 🔭 I’m currently working on a Torrent API.
 - 🌱 I’m currently learning Python & JavaScript.
