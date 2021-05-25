@@ -47,6 +47,6 @@
 
 ![Neranjana's github stats](https://github-readme-stats.vercel.app/api?username=nandiyalive&show_icons=true&theme=dark)
 
-### Last Played on Spotify
+### What heals me ❤
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ycv94tqdgut7q6q3ul038gcvj&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
