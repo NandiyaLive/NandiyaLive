@@ -49,4 +49,4 @@
 
 ### Recently played on Spotify 🎵
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ycv94tqdgut7q6q3ul038gcvj&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ycv94tqdgut7q6q3ul038gcvj&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
