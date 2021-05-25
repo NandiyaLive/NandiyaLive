@@ -46,3 +46,7 @@
 <br><br>
 
 ![Neranjana's github stats](https://github-readme-stats.vercel.app/api?username=nandiyalive&show_icons=true&theme=dark)
+
+### Last Played on Spotify
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=ycv94tqdgut7q6q3ul038gcvj&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ycv94tqdgut7q6q3ul038gcvj&cover_image=true&theme=default)]]
