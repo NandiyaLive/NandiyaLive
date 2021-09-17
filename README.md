@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-20 😎 | Tech Noob 👨‍💻  | Linux Lover 🐧 | DIY Builder 🤖 | Tweet-A-Holic 🐦 | Sri Lankan 🇱🇰
+21 😎 | Tech Noob 👨‍💻  | Linux Lover 🐧 | DIY Builder 🤖 | Tweet-A-Holic 🐦 | Sri Lankan 🇱🇰
 
 - 🔭 I’m currently working on my exams 🤒 
 - 🌱 I’m currently learning Python & JavaScript.
@@ -47,6 +47,5 @@
 
 ![Neranjana's github stats](https://github-readme-stats.vercel.app/api?username=nandiyalive&show_icons=true&theme=dark)
 
-### Recently played on Spotify 🎵
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ycv94tqdgut7q6q3ul038gcvj&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+<br>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ycv94tqdgut7q6q3ul038gcvj&width={400}&count={5}))
