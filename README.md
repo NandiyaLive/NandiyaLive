@@ -45,6 +45,8 @@
 </a>
 <br><br>
 
+---
+
 ![Neranjana's github stats](https://github-readme-stats.vercel.app/api?username=nandiyalive&show_icons=true&theme=dark)
 
 <br>
