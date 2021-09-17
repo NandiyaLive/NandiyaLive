@@ -49,5 +49,4 @@
 
 <br>
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ycv94tqdgut7q6q3ul038gcvj&width=300&count=5)](https://open.spotify.com/user/ycv94tqdgut7q6q3ul038gcvj)
-
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ycv94tqdgut7q6q3ul038gcvj&width=300&count=5)
