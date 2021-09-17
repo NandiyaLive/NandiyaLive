@@ -49,3 +49,6 @@
 
 <br>
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=ycv94tqdgut7q6q3ul038gcvj&width=400&count=5)(https://open.spotify.com/playlist/4oKjrCt8bfJCLQxL635Ftq)
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&width=600)
+
