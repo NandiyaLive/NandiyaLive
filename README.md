@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my exams 🤒 
 - 🌱 I’m currently learning Python & JavaScript.
 - 👯 I’m looking to collaborate on any interesting project.
-- 💬 Ask me about [Telegram](https://telegram)
+- 💬 Ask me about [Telegram](https://telegram) bots.
 <!--
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
