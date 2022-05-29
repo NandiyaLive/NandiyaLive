@@ -2,15 +2,15 @@
 
 21 😎 | Tech Noob 👨‍💻  | Linux Lover 🐧 | DIY Builder 🤖 | Tweet-A-Holic 🐦 | Sri Lankan 🇱🇰
 
-- 🔭 I’m currently working on my exams 🤒 
+- 🔭 I’m currently working on some web projects.
 - 🌱 I’m currently learning Python & JavaScript.
 - 👯 I’m looking to collaborate on any interesting project.
-- 💬 Ask me about [Telegram](https://telegram) bots.
+- 💬 Ask me about Web Development / [Telegram](https://telegram) bots.
+- ⚡ Fun fact: I'm a die-hard [Rashmika Mandanna](https://en.wikipedia.org/wiki/Rashmika_Mandanna) fan 😂
 <!--
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 ### Tools & Languages 🛠
