@@ -40,4 +40,6 @@
 
 ![Neranjana's github stats](https://github-readme-stats.vercel.app/api?username=nandiyalive&show_icons=true&theme=radical)
 <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandiyalive&layout=compact&theme=radical)]
+<br>
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ycv94tqdgut7q6q3ul038gcvj&width=300&count=5)](https://open.spotify.com/user/ycv94tqdgut7q6q3ul038gcvj)
