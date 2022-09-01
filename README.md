@@ -39,7 +39,6 @@
 ---
 
 ![Neranjana's github stats](https://github-stats-alpha.vercel.app/api?username=NandiyaLive&cc=000&tc=fff&ic=fff&bc=000)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ycv94tqdgut7q6q3ul038gcvj&width=300&count=5)](https://open.spotify.com/user/ycv94tqdgut7q6q3ul038gcvj)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandiyalive&layout=compact&theme=dark)
-<br>
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ycv94tqdgut7q6q3ul038gcvj&width=300&count=5)](https://open.spotify.com/user/ycv94tqdgut7q6q3ul038gcvj)
