@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-21 😎 | Tech Noob 👨‍💻  | Linux Lover 🐧 | DIY Builder 🤖 | Tweet-A-Holic 🐦 | Sri Lankan 🇱🇰
+22 😎 | Tech Noob 👨‍💻  | Linux Lover 🐧 | DIY Builder 🤖 | Tweet-A-Holic 🐦 | Sri Lankan 🇱🇰
 
 - 🔭 I’m currently working on some web projects.
 - 🌱 I’m currently learning Python & JavaScript.
