@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning Python & JavaScript.
 - 👯 I’m looking to collaborate on any interesting project.
 - 💬 Ask me about Web Development / [Telegram](https://telegram) bots.
-- ⚡ Fun fact: I'm a die-hard [Rashmika Mandanna](https://en.wikipedia.org/wiki/Rashmika_Mandanna) fan 😂
 <!--
+- ⚡ Fun fact: I'm a die-hard [Rashmika Mandanna](https://en.wikipedia.org/wiki/Rashmika_Mandanna) fan 😂
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
