@@ -1,17 +1,14 @@
-## Hi there 👋
+Hi 👋 My name is Neranjana Prasad
+=================================
 
-22 😎 | Tech Noob 👨‍💻  | Linux Lover 🐧 | DIY Builder 🤖 | Tweet-A-Holic 🐦 | Sri Lankan 🇱🇰
+Tech Noob 👨‍💻 | Linux Lover 🐧 | DIY Builder 🤖 | Tweet-A-Holic 🐦 | Sri Lankan 🇱🇰
 
-- 🔭 I’m currently working on some web projects.
-- 🌱 I’m currently learning Python & JavaScript.
-- 👯 I’m looking to collaborate on any interesting project.
-- 💬 Ask me about Web Development / [Telegram](https://telegram) bots.
-<!--
-- ⚡ Fun fact: I'm a die-hard [Rashmika Mandanna](https://en.wikipedia.org/wiki/Rashmika_Mandanna) fan 😂
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
+*   🌍  I'm based in Kandy, Sri Lanka
+*   🖥️  See my portfolio at [neranjana.mr](http://neranjana.me)
+*   ✉️  You can contact me at [connect@neranjana.me](mailto:connect@neranjana.me)
+*   🚀  I'm currently working on [an in-house Next.js based eCommerce solution](http://github.com/pettahjs)
+*   🧠  I'm learning React, TypeScript
+*   🤝  I'm open to collaborating on interestion React based projects
 
 ### Tools & Languages 🛠
 
