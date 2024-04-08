@@ -1,13 +1,13 @@
 Hi 👋 My name is Neranjana Prasad
 =================================
 
-Tech Noob 👨‍💻 | Linux Lover 🐧 | DIY Builder 🤖 | Tweet-A-Holic 🐦 | Sri Lankan 🇱🇰
+Web Developer 👨‍💻 | Linux Lover 🐧 | DIY Builder 🤖 | Tweet-A-Holic 🐦 | Sri Lankan 🇱🇰
 
 *   🌍  I'm based in Kandy, Sri Lanka
 *   🖥️  See my portfolio at [neranjana.me](http://neranjana.me)
 *   ✉️  You can contact me at [connect@neranjana.me](mailto:connect@neranjana.me)
-*   🚀  I'm currently working on [an in-house Next.js based eCommerce solution](http://github.com/pettahjs)
-*   🧠  I'm learning React, TypeScript
+*   🚀  I'm currently working on [a Next.js based eCommerce solution](http://github.com/pettahjs)
+*   🧠  I'm learning Node.js, MongoDB, React and TypeScript
 *   🤝  I'm open to collaborating on interestion React based projects
 
 ### Tools & Languages 🛠
