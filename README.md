@@ -17,7 +17,7 @@ Web Developer 👨‍💻 | Linux Lover 🐧 | DIY Builder 🤖 | Tweet-A-Holic 
 ### Find Me 🔍
 
   <a href="https://twitter.com/NandiyaLive">
-    <img align="left" alt="Twitter" width="22px" src="https://cdn.simpleicons.org/twitter/black/white"/>
+    <img align="left" alt="Twitter" width="22px" src="https://cdn.simpleicons.org/x/black/white"/>
 </a>
 <a href="https://linkedin.com/in/NeranjanaPrasad">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.simpleicons.org/linkedin/black/white" />
