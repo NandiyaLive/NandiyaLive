@@ -17,10 +17,10 @@ Web Developer 👨‍💻 | Linux Lover 🐧 | DIY Builder 🤖 | Tweet-A-Holic 
 ### Find Me 🔍
 
 <a href="https://twitter.com/NandiyaLive">
-  <img align="left" alt="Twitter" width="22px" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter-x.svg"/>
+  <img align="left" alt="Twitter" width="22px" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter.svg"/>
 </a>
 <a href="https://linkedin.com/in/NeranjanaPrasad">
-  <img align="left" alt="Linkdein" width="22px" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter.svg" />
+  <img align="left" alt="Linkdein" width="22px" src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg" />
 </a>
 <a href="https://instagram.com/NandiyaLive">
   <img align="left" alt="Instagram" width="22px" src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/instagram.svg" />
