@@ -3,11 +3,11 @@ Hi 👋 My name is Neranjana Prasad
 
 Web Developer 👨‍💻 | Linux Lover 🐧 | DIY Builder 🤖 | Tweet-A-Holic 🐦 | Sri Lankan 🇱🇰
 
-*   🌍  I'm based in Kandy, Sri Lanka
-*   🖥️  See my portfolio at [neranjana.me](http://neranjana.me)
-*   ✉️  You can contact me at [hello@neranjana.me](mailto:hello@neranjana.me)
-*   🧠  I'm learning Node.js, MongoDB, React and TypeScript
-* 💼 I'm currently looking for Software Engineering or Full-Stack Development intern roles.
+* 🌍  I'm based in Kandy, Sri Lanka
+* 🖥️  See my portfolio at [neranjana.me](http://neranjana.me)
+* ✉️  You can contact me at [hello@neranjana.me](mailto:hello@neranjana.me)
+* 🧠  I'm learning ![Golang](https://go.dev)
+* 💼 I'm currently looking for Software Engineering or Full-Stack Development intern roles
 <!-- *   🚀  I'm currently working on [a Next.js based eCommerce solution](http://github.com/pettahjs) -->
 <!-- *   🤝  I'm open to collaborating on interestion React based projects -->
 
