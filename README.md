@@ -7,7 +7,7 @@ Web Developer 👨‍💻 | Linux Lover 🐧 | DIY Builder 🤖 | Tweet-A-Holic 
 * 🖥️  See my portfolio at [neranjana.me](http://neranjana.me)
 * ✉️  You can contact me at [hello@neranjana.me](mailto:hello@neranjana.me)
 * 🧠  I'm learning ![Golang](https://go.dev)
-* 💼 I'm currently looking for Software Engineering or Full-Stack Development intern roles
+* 💼 I'm currently looking for Software Engineering or Full-Stack Development roles
 <!-- *   🚀  I'm currently working on [a Next.js based eCommerce solution](http://github.com/pettahjs) -->
 <!-- *   🤝  I'm open to collaborating on interestion React based projects -->
 
@@ -40,5 +40,3 @@ Web Developer 👨‍💻 | Linux Lover 🐧 | DIY Builder 🤖 | Tweet-A-Holic 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandiyalive&layout=compact&theme=dark) -->
 
 [![An image of @nandiyalive's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nandiyalive)](https://holopin.io/@nandiyalive)
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=ycv94tqdgut7q6q3ul038gcvj&unique=true)](https://open.spotify.com/user/ycv94tqdgut7q6q3ul038gcvj)
